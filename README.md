@@ -31,6 +31,8 @@ Workspace de operações para planejar, priorizar e executar projetos com clarez
 
 Workspace premium de inteligência artificial com conversas persistentes, Markdown, blocos de código, autenticação segura e arquitetura multiusuário baseada em Supabase.
 
+![Astraea AI workspace](assets/astraea-showcase.png)
+
 [![Abrir repositório](https://img.shields.io/badge/Abrir_repositório-06b6d4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitorgamer778/astraea-ai)
 
 > **Next.js 16 · React 19 · TypeScript · Supabase · Tailwind CSS**  
