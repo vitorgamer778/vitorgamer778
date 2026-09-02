@@ -31,7 +31,10 @@ Workspace de operações para planejar, priorizar e executar projetos com clarez
 
 Workspace premium de inteligência artificial com conversas persistentes, Markdown, blocos de código, autenticação segura e arquitetura multiusuário baseada em Supabase.
 
-[![Repositório Astraea AI](https://github-readme-stats.vercel.app/api/pin/?username=vitorgamer778&repo=astraea-ai&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=22d3ee&text_color=cbd5e1)](https://github.com/vitorgamer778/astraea-ai)
+[![Abrir repositório](https://img.shields.io/badge/Abrir_repositório-06b6d4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitorgamer778/astraea-ai)
+
+> **Next.js 16 · React 19 · TypeScript · Supabase · Tailwind CSS**  
+> Autenticação SSR, conversas persistentes, Markdown, código formatado e experiência responsiva.
 
 ### ◈ Nexus — SaaS Revenue Intelligence
 
@@ -45,13 +48,6 @@ Plataforma SaaS multi-workspace para receita, clientes, assinaturas e cresciment
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,supabase,postgres,vercel,git&perline=8" alt="Tecnologias principais" />
-</div>
-
-## GitHub em movimento
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vitorgamer778&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=22d3ee&text_color=cbd5e1" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgamer778&layout=compact&theme=transparent&hide_border=true&title_color=a78bfa&text_color=cbd5e1" alt="Linguagens mais usadas" />
 </div>
 
 <div align="center">
