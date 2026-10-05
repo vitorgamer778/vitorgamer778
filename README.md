@@ -6,14 +6,15 @@
   <a href="https://orbit-project-ops.vercel.app"><img src="https://img.shields.io/badge/Orbit-Project%20Operations-7c3aed?style=for-the-badge" alt="Orbit" /></a>
   <a href="https://github.com/vitorgamer778/astraea-ai"><img src="https://img.shields.io/badge/Astraea-AI%20Workspace-06b6d4?style=for-the-badge" alt="Astraea AI" /></a>
   <a href="https://nexus-saas-dashboard-tawny.vercel.app/demo/dashboard"><img src="https://img.shields.io/badge/Nexus-Revenue%20Intelligence-10b981?style=for-the-badge" alt="Nexus" /></a>
+  <a href="https://github.com/vitorgamer778/vitrine"><img src="https://img.shields.io/badge/Vitrine-Android-64366e?style=for-the-badge&logo=android&logoColor=white" alt="Vitrine Android" /></a>
 </div>
 
 ## Sobre mim
 
 Sou **Victhor Hugo**, desenvolvedor full-stack focado em transformar ideias ambiciosas em produtos digitais completos. Gosto de unir engenharia, experiência do usuário e identidade visual para criar aplicações rápidas, intuitivas e prontas para crescer.
 
-- Construo produtos SaaS, ferramentas com IA e experiências web responsivas.
-- Trabalho com **Next.js, React, TypeScript, Tailwind CSS, Supabase e PostgreSQL**.
+- Construo produtos SaaS, ferramentas com IA, experiências web responsivas e aplicativos para Android e smartphones.
+- Trabalho com **Next.js, React, React Native, Expo, TypeScript, Tailwind CSS, Supabase e PostgreSQL**.
 - Cuido do produto de ponta a ponta: arquitetura, interface, segurança, testes e deploy.
 - Atualmente evoluindo um ecossistema de produtos autorais com foco em produtividade e inteligência.
 
@@ -46,10 +47,20 @@ Plataforma SaaS multi-workspace para receita, clientes, assinaturas e cresciment
 
 ![Nexus revenue dashboard](https://raw.githubusercontent.com/vitorgamer778/nexus-saas-dashboard/main/docs/screenshots/dashboard.png)
 
+### Vitrine — catálogo e pedidos para Android
+
+App de portfólio para pequenos negócios, feito com **React Native, Expo e TypeScript**. Catálogo com fotografias locais, busca, filtros, carrinho, validação do pedido e acompanhamento simulado. Dados salvos no aparelho e funcionamento offline.
+
+<img src="https://raw.githubusercontent.com/vitorgamer778/vitrine/main/docs/screenshots/catalog.png" alt="Captura real do APK Vitrine no emulador Android, com catálogo da loja demonstrativa Casa Lume" width="300" />
+
+[Código e instruções](https://github.com/vitorgamer778/vitrine) · [Baixar APK demo (62 MB)](https://github.com/vitorgamer778/vitrine/releases/download/v1.0.0/vitrine-demo.apk) · [Ver no portfólio](https://programador-alpha.vercel.app/#vitrine)
+
+Loja fictícia, sem pagamentos ou envio real de pedidos. APK de demonstração com assinatura de debug, testado offline no emulador Android API 36; não destinado à Play Store. Não inserir dados pessoais reais. [Evidências e limites](https://github.com/vitorgamer778/vitrine/blob/main/docs/validation.md).
+
 ## Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,supabase,postgres,vercel,git&perline=8" alt="Tecnologias principais" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,supabase,postgres,vercel,git&perline=8" alt="Tecnologias principais; desenvolvimento mobile com React Native e Expo" />
 </div>
 
 <div align="center">
