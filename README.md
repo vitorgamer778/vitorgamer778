@@ -26,13 +26,17 @@ Workspace de operações para planejar, priorizar e executar projetos com clarez
 
 [![Orbit — demonstração ao vivo](https://img.shields.io/badge/Abrir_demonstração-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://orbit-project-ops.vercel.app)
 
-![Orbit board](https://raw.githubusercontent.com/vitorgamer778/orbit-project-ops/main/public/screenshots/board.png)
+[![Orbit — captura real do quadro Kanban da demonstração pública](assets/orbit-board-20261005.jpg)](https://orbit-project-ops.vercel.app/)
+
+<sub>Captura real em 05/10/2026. Dados demonstrativos; alterações ficam nesta sessão do navegador.</sub>
 
 ### ✦ Astraea AI — Intelligent Workspace
 
 Workspace premium de inteligência artificial com conversas persistentes, Markdown, blocos de código, autenticação segura e arquitetura multiusuário baseada em Supabase.
 
-[![Astraea AI — site real](assets/astraea-site-real.png)](https://astraea-ai.vercel.app/)
+[![Astraea AI — captura real do workspace da demonstração pública](assets/astraea-workspace-20261005.jpg)](https://astraea-ai-ten.vercel.app/demo)
+
+<sub>Captura real em 05/10/2026. Demonstração com respostas simuladas, sem serviços externos de IA.</sub>
 
 [![Abrir repositório](https://img.shields.io/badge/Abrir_repositório-06b6d4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitorgamer778/astraea-ai)
 
@@ -45,7 +49,9 @@ Plataforma SaaS multi-workspace para receita, clientes, assinaturas e cresciment
 
 [![Nexus — demonstração ao vivo](https://img.shields.io/badge/Explorar_Nexus-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://nexus-saas-dashboard-tawny.vercel.app/demo/dashboard)
 
-![Nexus revenue dashboard](https://raw.githubusercontent.com/vitorgamer778/nexus-saas-dashboard/main/docs/screenshots/dashboard.png)
+[![Nexus — captura real do dashboard de receita da demonstração pública](assets/nexus-dashboard-20261005.jpg)](https://nexus-saas-dashboard-tawny.vercel.app/demo/dashboard)
+
+<sub>Captura real em 05/10/2026. Dados fictícios, ações somente de leitura e sem acesso à produção.</sub>
 
 ### Vitrine — catálogo e pedidos para Android
 
