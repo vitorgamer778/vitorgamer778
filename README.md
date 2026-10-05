@@ -26,17 +26,17 @@ Workspace de operações para planejar, priorizar e executar projetos com clarez
 
 [![Orbit — demonstração ao vivo](https://img.shields.io/badge/Abrir_demonstração-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://orbit-project-ops.vercel.app)
 
-[![Orbit — captura real do quadro Kanban da demonstração pública](assets/orbit-board-20261005.jpg)](https://orbit-project-ops.vercel.app/)
+[![Orbit — mesma captura real utilizada no portfólio VH Code Solutions](assets/orbit-20261004-real.jpg)](https://orbit-project-ops.vercel.app/)
 
-<sub>Captura real em 05/10/2026. Dados demonstrativos; alterações ficam nesta sessão do navegador.</sub>
+<sub>Imagem do portfólio principal, capturada em 04/10/2026. Dados demonstrativos; alterações ficam nesta sessão do navegador.</sub>
 
 ### ✦ Astraea AI — Intelligent Workspace
 
 Workspace premium de inteligência artificial com conversas persistentes, Markdown, blocos de código, autenticação segura e arquitetura multiusuário baseada em Supabase.
 
-[![Astraea AI — captura real do workspace da demonstração pública](assets/astraea-workspace-20261005.jpg)](https://astraea-ai-ten.vercel.app/demo)
+[![Astraea AI — mesma captura real da tela de acesso utilizada no portfólio VH Code Solutions](assets/astraea-20261004-real.jpg)](https://astraea-ai-ten.vercel.app/)
 
-<sub>Captura real em 05/10/2026. Demonstração com respostas simuladas, sem serviços externos de IA.</sub>
+<sub>Imagem do portfólio principal, capturada em 04/10/2026. Demonstração com respostas simuladas, sem serviços externos de IA.</sub>
 
 [![Abrir repositório](https://img.shields.io/badge/Abrir_repositório-06b6d4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitorgamer778/astraea-ai)
 
@@ -49,15 +49,15 @@ Plataforma SaaS multi-workspace para receita, clientes, assinaturas e cresciment
 
 [![Nexus — demonstração ao vivo](https://img.shields.io/badge/Explorar_Nexus-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://nexus-saas-dashboard-tawny.vercel.app/demo/dashboard)
 
-[![Nexus — captura real do dashboard de receita da demonstração pública](assets/nexus-dashboard-20261005.jpg)](https://nexus-saas-dashboard-tawny.vercel.app/demo/dashboard)
+[![Nexus — mesma captura real da página do produto utilizada no portfólio VH Code Solutions](assets/nexus-20261004-real.jpg)](https://nexus-saas-dashboard-tawny.vercel.app/)
 
-<sub>Captura real em 05/10/2026. Dados fictícios, ações somente de leitura e sem acesso à produção.</sub>
+<sub>Imagem do portfólio principal, capturada em 04/10/2026. Dados fictícios, ações somente de leitura e sem acesso à produção.</sub>
 
 ### Vitrine — catálogo e pedidos para Android
 
 App de portfólio para pequenos negócios, feito com **React Native, Expo e TypeScript**. Catálogo com fotografias locais, busca, filtros, carrinho, validação do pedido e acompanhamento simulado. Dados salvos no aparelho e funcionamento offline.
 
-<img src="https://raw.githubusercontent.com/vitorgamer778/vitrine/main/docs/screenshots/catalog.png" alt="Captura real do APK Vitrine no emulador Android, com catálogo da loja demonstrativa Casa Lume" width="300" />
+<img src="assets/vitrine-android-20261004.png" alt="Mesma captura real do Vitrine no Android utilizada no portfólio VH Code Solutions, com catálogo da loja demonstrativa Casa Lume" width="300" />
 
 [Código e instruções](https://github.com/vitorgamer778/vitrine) · [Baixar APK demo (62 MB)](https://github.com/vitorgamer778/vitrine/releases/download/v1.0.0/vitrine-demo.apk) · [Ver no portfólio](https://programador-alpha.vercel.app/#vitrine)
 
